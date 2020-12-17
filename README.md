@@ -4,3 +4,4 @@ The whole reminder is divided into four columns: Backlog, In progress, Complete 
 Users can add items in any columns to show their tasks, plans or schedule
 
 Open the whole project in any IDE and run index.html
+This project is mainly use Javascript
